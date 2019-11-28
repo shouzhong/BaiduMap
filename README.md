@@ -11,6 +11,4 @@ implementation 'com.shouzhong:BaiduMap:1.0.0'
 -keep class com.baidu.**{*;}
 -dontwarn mapsdkvi.com.**
 -keep class mapsdkvi.com.** {*;}
--dontwarn com.google.protobuf.micro.**
--keep class com.google.protobuf.micro.** {*;}
 ```
